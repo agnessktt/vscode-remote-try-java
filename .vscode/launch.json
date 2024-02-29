@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.While",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
